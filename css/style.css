@@ -1,0 +1,149 @@
+body {
+  width: 900px;
+  margin: 0px auto;
+}
+
+header nav {
+  margin-top:30px;
+  height: 45px;
+}
+
+#logo {
+  float: left;
+  margin-right:5px;
+}
+
+nav p {
+  max-width: 200px;
+  font-size: 8.5px;
+}
+
+#icons {
+  float: right;
+}
+
+#space {
+  margin-right: 5px;
+}
+
+#delicious {
+  font-size: 36px;
+  font-family: 'Yellowtail', cursive;
+}
+
+header nav li {
+  display: inline-block;
+}
+
+main div p {
+  font-size: 12px;
+  float: left;
+}
+
+#pizza {
+  font-size: 46px;
+  font-family: 'Oswald';
+}
+
+#print, #date {
+  font-family: Abel;
+  font-size: 12px;
+  margin: 10px 0px 30px 0px:
+}
+
+#date {
+  float: left;
+}
+
+#print, #imgPr {
+  float: right;
+  padding-left: 3px;
+}
+
+main section img {
+  position: absolute;
+  z-index: -1;
+}
+
+main section ul {
+  font-family: 'Patrick Hand', cursive;
+  font-size: 24px;
+  list-style-type: square;
+  margin: 35px 0px 50px 80px;
+  float: left;
+  width: 330px;
+}
+
+main section ul li {
+  line-height: 31px;
+}
+
+section {
+  margin-top: 40px;
+  height: 300px;
+}
+
+#line {
+  text-decoration: line-through;
+}
+
+#hash {
+  clear: both;
+  border: 0;
+  height: 13px;
+  margin-bottom: 25px;
+  padding-top: 25px;
+}
+
+#text {
+  text-indent: 30px;
+  font-size: 19.5px;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+#print #date {
+  font-family: 'Abel';
+}
+
+#choco {
+  margin: 30px 0px 30px 0px;
+  font-family: 'Oswald';
+}
+
+aside {
+  padding: 30px 0px 60px 0px;
+}
+ aside img {
+   float: left;
+ }
+
+aside h3 {
+  padding-left: 100px;
+  font-size: 26px;
+  color: rgb(73, 73, 73);
+}
+
+aside p {
+  padding-left: 100px;
+  width: 600px;
+  font-size: 20px;
+}
+
+button {
+  float: right;
+  font-family: 'Abel';
+  background: #c2735b;
+  color: #ffffff;
+  border: none;
+  padding: 15px 40px;
+  font-size: 18px;
+}
+
+#foot {
+  text-align: center;
+}
+
+#footer {
+  padding: 50px 0;
+}

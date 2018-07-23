@@ -1,0 +1,100 @@
+body {
+  width: 900px;
+  margin: 0px auto;
+}
+
+header nav {
+  margin-top:40px;
+  height: 45px;
+}
+
+#logo {
+  float: left;
+  margin-right:5px;
+}
+
+nav p {
+  max-width: 200px;
+  font-size: 8px;
+  float: left;
+}
+
+#space {
+  margin-right: 5px;
+}
+
+nav ul {
+  float: right;
+}
+
+#delicious {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Yellowtail', cursive;
+}
+
+header nav li {
+  display: inline-block;
+}
+
+main div p {
+  font-size: 12px;
+  float: left;
+}
+
+#pizza {
+  font-size: 36px;
+}
+
+main section img {
+  position: absolute;
+  z-index: -1;
+}
+
+main section ul {
+  font-family: 'Patrick Hand', cursive;
+  font-size: 24px;
+  list-style-type: square;
+  margin: 35px 0px 50px 80px;
+  float: left;
+  width: 330px;
+}
+
+main section ul li {
+  line-height: 31px;
+}
+
+section {
+  margin-top: 40px;
+  height: 300px;
+}
+
+#line {
+  text-decoration: line-through;
+}
+
+#hash {
+  clear: both;
+  border: 0;
+  height: 13px;
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+
+#text {
+  font-size: 20px;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+
+#choco {
+  margin: 30px 0px 30px 0px;
+}
+button {
+  float: right;
+}
+
+#foot {
+  text-align: center;
+}

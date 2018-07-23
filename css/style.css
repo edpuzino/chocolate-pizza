@@ -16,19 +16,18 @@ header nav {
 nav p {
   max-width: 200px;
   font-size: 8px;
-  float: left;
+}
+
+#icons {
+  float: right;
 }
 
 #space {
   margin-right: 5px;
 }
 
-nav ul {
-  float: right;
-}
-
 #delicious {
-  font-size: 40px;
+  font-size: 36px;
   font-weight: bold;
   font-family: 'Yellowtail', cursive;
 }
@@ -82,14 +81,19 @@ section {
 }
 
 #text {
-  font-size: 20px;
+  text-indent: 30px;
+  font-size: 19.5px;
   line-height: 24px;
   margin-bottom: 20px;
 }
 
+#print #date {
+  font-family: 'Abel';
+}
 
 #choco {
   margin: 30px 0px 30px 0px;
+  font-family: 'Oswald';
 }
 button {
   float: right;
@@ -97,4 +101,8 @@ button {
 
 #foot {
   text-align: center;
+}
+
+#footer {
+  margin: 40px, auto, 100px, auto;
 }
